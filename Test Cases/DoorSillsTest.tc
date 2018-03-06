@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DoorSillsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b100196-f62f-464c-a906-c0e17738aeb0</testCaseGuid>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>93407b57-e39b-4bc5-9fe5-7de3ef60ee1b</id>
+      <masked>false</masked>
+      <name>step</name>
+   </variable>
+   <variable>
+      <defaultValue>0.75</defaultValue>
+      <description></description>
+      <id>233d4e46-eb73-434a-b4f0-9cc64770bf0a</id>
+      <masked>false</masked>
+      <name>LoadTimeCorrector</name>
+   </variable>
+   <variable>
+      <defaultValue>30</defaultValue>
+      <description></description>
+      <id>080ffa0f-87fc-4213-a4d6-87ed256f71c7</id>
+      <masked>false</masked>
+      <name>TimeOut</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>0433e458-b3cb-4b16-ac00-73dabefa6209</id>
+      <masked>false</masked>
+      <name>run</name>
+   </variable>
+</TestCaseEntity>

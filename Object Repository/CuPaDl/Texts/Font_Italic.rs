@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Font_Italic</name>
+   <tag></tag>
+   <elementGuidId>3d8c7d5a-b544-4cd0-b9f2-93ae37d6c585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[9]/div[2]/div/div[2]/div/div[1]/div[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[10]/div[2]/div/div[2]/div/div[1]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;pages-index&quot;]/div[10]/div[2]/div/div[2]/div/div[1]/div[4]</value>
+   </webElementProperties>
+</WebElementEntity>

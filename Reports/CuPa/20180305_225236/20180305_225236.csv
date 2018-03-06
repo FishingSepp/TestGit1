@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CuPa,Chrome 64.0.3282.186,,2018-03-05 22:52:37,2018-03-05 22:56:58,"4m - 21,207s",FAILED
+,,,,,,
+Test Cases/CuPaStefanie/35,Chrome 64.0.3282.186,,2018-03-05 22:52:38,2018-03-05 22:54:50,"2m - 12,017s",PASSED
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 22:52:38,2018-03-05 22:52:38,"0,031s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 22:52:38,2018-03-05 22:52:38,"0,001s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:52:38,2018-03-05 22:52:38,"0,001s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:52:38,2018-03-05 22:52:38,"0,000s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:52:38,2018-03-05 22:52:38,"0,001s",PASSED
+cupakeysDl.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-05 22:52:38,2018-03-05 22:52:57,"19,143s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:52:57,2018-03-05 22:52:57,"0,001s",PASSED
+cupakeysDl.color.changecolor,Chrome 64.0.3282.186,,2018-03-05 22:52:57,2018-03-05 22:53:04,"6,732s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:53:04,2018-03-05 22:53:04,"0,000s",PASSED
+"Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd(""londoncircle"", LoadTimeCorrector, step, run, device, timeStamp, iconcount)",Chrome 64.0.3282.186,,2018-03-05 22:53:04,2018-03-05 22:53:41,"36,629s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:53:41,2018-03-05 22:53:41,"0,000s",PASSED
+Statement - (iconcount++),Chrome 64.0.3282.186,,2018-03-05 22:53:41,2018-03-05 22:53:41,"0,000s",PASSED
+cupakeysDl.iconres.iconresize,Chrome 64.0.3282.186,,2018-03-05 22:53:41,2018-03-05 22:54:15,"34,324s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:54:15,2018-03-05 22:54:15,"0,000s",PASSED
+cupakeysDl.slink.svlink,Chrome 64.0.3282.186,,2018-03-05 22:54:15,2018-03-05 22:54:46,"31,062s",PASSED
+cupakeysDl.endsession.finishsession,Chrome 64.0.3282.186,,2018-03-05 22:54:46,2018-03-05 22:54:50,"3,592s",PASSED
+,,,,,,
+Test Cases/CuPaStefanie/36,Chrome 64.0.3282.186,,2018-03-05 22:54:50,2018-03-05 22:56:58,"2m - 8,267s",FAILED
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 22:54:50,2018-03-05 22:54:50,"0,000s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 22:54:50,2018-03-05 22:54:50,"0,001s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:54:50,2018-03-05 22:54:50,"0,000s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:54:50,2018-03-05 22:54:50,"0,000s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:54:50,2018-03-05 22:54:50,"0,000s",PASSED
+cupakeysDl.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-05 22:54:50,2018-03-05 22:55:08,"18,580s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:55:08,2018-03-05 22:55:08,"0,000s",PASSED
+cupakeysDl.color.changecolor,Chrome 64.0.3282.186,,2018-03-05 22:55:08,2018-03-05 22:55:15,"6,777s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:55:15,2018-03-05 22:55:15,"0,001s",PASSED
+"Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd(""londoncircle"", LoadTimeCorrector, step, run, device, timeStamp, iconcount)",Chrome 64.0.3282.186,,2018-03-05 22:55:15,2018-03-05 22:55:52,"36,545s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:55:52,2018-03-05 22:55:52,"0,000s",PASSED
+Statement - (iconcount++),Chrome 64.0.3282.186,,2018-03-05 22:55:52,2018-03-05 22:55:52,"0,000s",PASSED
+cupakeysDl.iconres.iconresize,Chrome 64.0.3282.186,,2018-03-05 22:55:52,2018-03-05 22:56:58,"1m - 6,110s",FAILED

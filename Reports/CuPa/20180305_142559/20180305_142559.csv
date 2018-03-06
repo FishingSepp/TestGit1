@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CuPa,Chrome 64.0.3282.186,,2018-03-05 14:26:00,2018-03-05 14:26:20,"20,159s",ERROR
+,,,,,,
+Test Cases/CuPaStefanie/0,Chrome 64.0.3282.186,,2018-03-05 14:26:00,2018-03-05 14:26:01,"0,267s",ERROR
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 14:26:00,2018-03-05 14:26:01,"0,018s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:01,"0,001s",PASSED
+Statement - ps = new java.io.PrintStream((((timeStamp + _Run) + run) + .txt)),Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:01,"0,002s",PASSED
+,,,,,,
+Test Cases/CuPaStefanie/2,Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:19,"18,952s",ERROR
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:01,"0,001s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:01,"0,000s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:01,"0,000s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:01,"0,000s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:01,"0,001s",PASSED
+cupaStefanie.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-05 14:26:01,2018-03-05 14:26:14,"13,317s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 14:26:14,2018-03-05 14:26:14,"0,001s",PASSED
+cupaStefanie.color.changecolor,Chrome 64.0.3282.186,,2018-03-05 14:26:14,2018-03-05 14:26:19,"5,406s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 14:26:19,2018-03-05 14:26:19,"0,000s",PASSED
+cupaStefaniel.chngstruct.changestructure,Chrome 64.0.3282.186,,2018-03-05 14:26:19,2018-03-05 14:26:19,"0,002s",ERROR

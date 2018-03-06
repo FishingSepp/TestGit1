@@ -1,0 +1,4 @@
+Step_1_initialLoad_: 25.652
+Step_2_iconadd_compass: 6.101
+Step_3_iconadd_pin: 6.368
+Step_4_colorChange_jetblack: 5.439

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="CuPa" time="101" tests="1" failures="0" errors="2">
+   <testsuite name="CuPa" tests="1" failures="0" errors="2" time="101" timestamp="2018-03-05 14:24:11" hostname="Megapoort - DESKTOP-47R6KV7.localdomain" id="Test Suites/CuPa">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Project\\DS5.2.1\\Reports\\CuPa\\20180305_142410"/>
+         <property name="logFiles" value="D:\\Project\\DS5.2.1\\Reports\\CuPa\\20180305_142410\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Megapoort - DESKTOP-47R6KV7.localdomain"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Chrome 64.0.3282.186"/>
+         <property name="hostAddress" value="192.168.100.78"/>
+         <property name="sessionId" value="21791e02e0d426891bd0b2b015300694"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CuPaStefanie/0" classname="Test Cases/CuPaStefanie/0" status="ERROR">
+         <error type="ERROR" message="Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case."/>
+         <system-out><![CDATA[2018-03-05 14:24:11 - [TEST_CASE][ERROR] - Test Cases/CuPaStefanie/0: Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case.
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - Statement - ps = new java.io.PrintStream((((timeStamp + _Run) + run) + .txt)): null]]></system-out>
+         <system-err><![CDATA[2018-03-05 14:24:11 - [TEST_CASE][ERROR] - Test Cases/CuPaStefanie/0: Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case.]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CuPaStefanie/1" classname="Test Cases/CuPaStefanie/1" status="PASSED">
+         <system-out><![CDATA[2018-03-05 14:24:11 - [TEST_CASE][PASSED] - Test Cases/CuPaStefanie/1: Test Cases/CuPaStefanie/1
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - Statement - iconmap = [:]: null
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - Statement - txtmap = [:]: null
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - Statement - signmap = [:]: null
+
+2018-03-05 14:24:11 - [TEST_STEP][PASSED] - cupaStefanie.initStart.initialStart: cupaStefanie.initStart.initialStart is PASSED
+
+2018-03-05 14:24:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-05 14:24:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-05 14:24:18 - [MESSAGE][PASSED] - Navigate to 'https://d16a4dsnr8a0k1.cloudfront.net/en/2455233.html?price=150.00%20%E2%82%AC&partName=wilsonPartName&vin=wilsonVin&modelCode=XP11&paint=P0A94&modelDescription=wilsonModelDescription&additionalEquipment=wilsonAdditionalEquipment' successfully
+
+2018-03-05 14:24:18 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-05 14:24:23 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-05 14:24:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:24:24 - [MESSAGE][PASSED] - cupaStefanie.initStart.initialStart is PASSED
+
+2018-03-05 14:24:24 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-05 14:24:24 - [TEST_STEP][PASSED] - cupaStefanie.color.changecolor: cupaStefanie.color.changecolor is PASSED
+
+2018-03-05 14:24:24 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color' is visible
+
+2018-03-05 14:24:24 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color' is clicked on
+
+2018-03-05 14:24:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-05 14:24:24 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color_passionred' is visible
+
+2018-03-05 14:24:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:24:25 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color_passionred' is clicked on
+
+2018-03-05 14:24:29 - [MESSAGE][WARNING] - Object 'Object Repository/CuPaDl/Loading_indicator' is not visible after 3 second(s)
+
+2018-03-05 14:24:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:24:30 - [MESSAGE][PASSED] - cupaStefanie.color.changecolor is PASSED
+
+2018-03-05 14:24:30 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-05 14:24:30 - [TEST_STEP][PASSED] - cupaStefanie.chngstruct.changestructure: cupaStefanie.chngstruct.changestructure is PASSED
+
+2018-03-05 14:24:30 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Structure' is clicked on
+
+2018-03-05 14:24:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-05 14:24:30 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Structure_Hahnentritt' is visible
+
+2018-03-05 14:24:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:24:31 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Structure_drops' is clicked on
+
+2018-03-05 14:24:32 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-05 14:24:36 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-05 14:24:37 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:24:37 - [MESSAGE][PASSED] - cupaStefanie.chngstruct.changestructure is PASSED
+
+2018-03-05 14:24:37 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-05 14:24:37 - [TEST_STEP][PASSED] - cupaStefanie.sclstruct.scalestructure: cupaStefanie.sclstruct.scalestructure is PASSED
+
+2018-03-05 14:24:41 - [MESSAGE][WARNING] - Object 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' is not visible after 3 second(s)
+
+2018-03-05 14:24:41 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Resize_Structure' is clicked on
+
+2018-03-05 14:24:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-05 14:24:41 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' is visible
+
+2018-03-05 14:24:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:24:42 - [MESSAGE][PASSED] - Current viewport's left (x) position is 0
+
+2018-03-05 14:24:42 - [MESSAGE][PASSED] - Current viewport's top (y) position is 54
+
+2018-03-05 14:24:42 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' by offset distance x = -225 and y = -171 successfully
+
+2018-03-05 14:24:43 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-05 14:25:04 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-05 14:25:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:05 - [MESSAGE][PASSED] - cupaStefanie.sclstruct.scalestructure is PASSED
+
+2018-03-05 14:25:05 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-05 14:25:05 - [TEST_STEP][PASSED] - Statement - iconmap += CustomKeywords.cupaStefanie.iconad.iconadd("unionjack", LoadTimeCorrector, step, run, device, timeStamp, iconcount): cupaStefanie.iconad.iconadd is PASSED
+
+2018-03-05 14:25:05 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Icons/Icon' is clicked on
+
+2018-03-05 14:25:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-05 14:25:05 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Icons/Icon_unionjack' is visible
+
+2018-03-05 14:25:06 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:06 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Icons/Icon_unionjack' is clicked on
+
+2018-03-05 14:25:07 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-05 14:25:09 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-05 14:25:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-05 14:25:09 - [MESSAGE][PASSED] - Width of element 'Object Repository/CuPaDl/Icons/Reposition_icon' is '40'
+
+2018-03-05 14:25:09 - [MESSAGE][PASSED] - Height of element 'Object Repository/CuPaDl/Icons/Reposition_icon' is '40'.
+
+2018-03-05 14:25:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:10 - [MESSAGE][PASSED] - cupaStefanie.iconad.iconadd is PASSED
+
+2018-03-05 14:25:10 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-05 14:25:10 - [TEST_STEP][PASSED] - Statement - (iconcount++): null
+
+2018-03-05 14:25:10 - [TEST_STEP][PASSED] - cupaStefanie.iconres.iconresize: cupaStefanie.iconres.iconresize is PASSED
+
+2018-03-05 14:25:10 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Icons/Reposition_icon' is visible
+
+2018-03-05 14:25:10 - [MESSAGE][PASSED] - Current viewport's left (x) position is 0
+
+2018-03-05 14:25:10 - [MESSAGE][PASSED] - Current viewport's top (y) position is 54
+
+2018-03-05 14:25:10 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/CuPaDl/Icons/Resize_icon_bottomright' by offset distance x = -125 and y = -71 successfully
+
+2018-03-05 14:25:11 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-05 14:25:26 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-05 14:25:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:27 - [MESSAGE][PASSED] - cupaStefanie.iconres.iconresize is PASSED
+
+2018-03-05 14:25:27 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-05 14:25:27 - [TEST_STEP][PASSED] - cupaStefanie.slink.svlink: cupaStefanie.slink.svlink is PASSED
+
+2018-03-05 14:25:27 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/CuPaDl/Save/Save' successfully
+
+2018-03-05 14:25:27 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Save/Save' is clicked on
+
+2018-03-05 14:25:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-05 14:25:28 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Save/CopyLink' is visible
+
+2018-03-05 14:25:28 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Save/CopyLink' is clicked on
+
+2018-03-05 14:25:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:29 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Save/Close' is clicked on
+
+2018-03-05 14:25:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:30 - [MESSAGE][PASSED] - cupaStefanie.slink.svlink is PASSED
+
+2018-03-05 14:25:30 - [TEST_STEP][PASSED] - cupaStefanie.endsession.finishsession: cupaStefanie.endsession.finishsession is PASSED
+
+2018-03-05 14:25:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-05 14:25:34 - [MESSAGE][PASSED] - Browser is closed
+
+2018-03-05 14:25:34 - [MESSAGE][PASSED] - cupaStefanie.endsession.finishsession is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CuPaStefanie/2" classname="Test Cases/CuPaStefanie/2" status="ERROR">
+         <error type="ERROR" message="Test Cases/CuPaStefanie/2 FAILED because (of) java.lang.ClassNotFoundException: cupaStefaniel.chngstruct"/>
+         <system-out><![CDATA[2018-03-05 14:25:34 - [TEST_CASE][ERROR] - Test Cases/CuPaStefanie/2: Test Cases/CuPaStefanie/2 FAILED because (of) java.lang.ClassNotFoundException: cupaStefaniel.chngstruct
+
+2018-03-05 14:25:34 - [TEST_STEP][PASSED] - Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-05 14:25:34 - [TEST_STEP][PASSED] - Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-05 14:25:34 - [TEST_STEP][PASSED] - Statement - iconmap = [:]: null
+
+2018-03-05 14:25:34 - [TEST_STEP][PASSED] - Statement - txtmap = [:]: null
+
+2018-03-05 14:25:34 - [TEST_STEP][PASSED] - Statement - signmap = [:]: null
+
+2018-03-05 14:25:34 - [TEST_STEP][PASSED] - cupaStefanie.initStart.initialStart: cupaStefanie.initStart.initialStart is PASSED
+
+2018-03-05 14:25:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-05 14:25:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-05 14:25:40 - [MESSAGE][PASSED] - Navigate to 'https://d16a4dsnr8a0k1.cloudfront.net/en/2455233.html?price=150.00%20%E2%82%AC&partName=wilsonPartName&vin=wilsonVin&modelCode=XP11&paint=P0A94&modelDescription=wilsonModelDescription&additionalEquipment=wilsonAdditionalEquipment' successfully
+
+2018-03-05 14:25:40 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-05 14:25:45 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-05 14:25:46 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:46 - [MESSAGE][PASSED] - cupaStefanie.initStart.initialStart is PASSED
+
+2018-03-05 14:25:46 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-05 14:25:46 - [TEST_STEP][PASSED] - cupaStefanie.color.changecolor: cupaStefanie.color.changecolor is PASSED
+
+2018-03-05 14:25:46 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color' is visible
+
+2018-03-05 14:25:46 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color' is clicked on
+
+2018-03-05 14:25:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-05 14:25:46 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color_passionred' is visible
+
+2018-03-05 14:25:47 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:47 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color_passionred' is clicked on
+
+2018-03-05 14:25:50 - [MESSAGE][WARNING] - Object 'Object Repository/CuPaDl/Loading_indicator' is not visible after 3 second(s)
+
+2018-03-05 14:25:51 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-05 14:25:51 - [MESSAGE][PASSED] - cupaStefanie.color.changecolor is PASSED
+
+2018-03-05 14:25:51 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-05 14:25:51 - [TEST_STEP][ERROR] - cupaStefaniel.chngstruct.changestructure: cupaStefaniel.chngstruct
+
+2018-03-05 14:25:51 - [MESSAGE][ERROR] - cupaStefaniel.chngstruct]]></system-out>
+         <system-err><![CDATA[2018-03-05 14:25:34 - [TEST_CASE][ERROR] - Test Cases/CuPaStefanie/2: Test Cases/CuPaStefanie/2 FAILED because (of) java.lang.ClassNotFoundException: cupaStefaniel.chngstruct]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-05 14:24:11 - [TEST_SUITE][ERROR] - CuPa: Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case.]]></system-out>
+      <system-err><![CDATA[2018-03-05 14:24:11 - [TEST_SUITE][ERROR] - CuPa: Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case.]]></system-err>
+   </testsuite>
+</testsuites>

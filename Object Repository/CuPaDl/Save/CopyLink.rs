@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CopyLink</name>
+   <tag></tag>
+   <elementGuidId>f1e31134-4a1f-4faa-ac6a-da787d3b6430</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[9]/div[2]/div/div[2]/div/div[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[10]/div[2]/div/div[2]/div/div[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;pages-index&quot;]/div[10]/div[2]/div/div[2]/div/div[3]/a/span</value>
+   </webElementProperties>
+</WebElementEntity>

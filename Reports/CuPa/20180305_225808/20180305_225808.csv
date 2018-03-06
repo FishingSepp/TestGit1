@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CuPa,Chrome 64.0.3282.186,,2018-03-05 22:58:09,2018-03-05 23:02:29,"4m - 19,784s",FAILED
+,,,,,,
+Test Cases/CuPaStefanie/35,Chrome 64.0.3282.186,,2018-03-05 22:58:09,2018-03-05 23:00:19,"2m - 10,121s",FAILED
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 22:58:10,2018-03-05 22:58:10,"0,030s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 22:58:10,2018-03-05 22:58:10,"0,001s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:58:10,2018-03-05 22:58:10,"0,000s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:58:10,2018-03-05 22:58:10,"0,000s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-05 22:58:10,2018-03-05 22:58:10,"0,000s",PASSED
+cupakeysDl.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-05 22:58:10,2018-03-05 22:58:29,"18,690s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:58:29,2018-03-05 22:58:29,"0,001s",PASSED
+maximizeWindow,Chrome 64.0.3282.186,,2018-03-05 22:58:29,2018-03-05 22:58:30,"1,120s",PASSED
+cupakeysDl.color.changecolor,Chrome 64.0.3282.186,,2018-03-05 22:58:30,2018-03-05 22:58:37,"7,129s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:58:37,2018-03-05 22:58:37,"0,001s",PASSED
+"Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd(""londoncircle"", LoadTimeCorrector, step, run, device, timeStamp, iconcount)",Chrome 64.0.3282.186,,2018-03-05 22:58:37,2018-03-05 22:59:14,"36,697s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 22:59:14,2018-03-05 22:59:14,"0,001s",PASSED
+Statement - (iconcount++),Chrome 64.0.3282.186,,2018-03-05 22:59:14,2018-03-05 22:59:14,"0,001s",PASSED
+cupakeysDl.iconres.iconresize,Chrome 64.0.3282.186,,2018-03-05 22:59:14,2018-03-05 23:00:19,"1m - 5,715s",FAILED
+,,,,,,
+Test Cases/CuPaStefanie/36,Chrome 64.0.3282.186,,2018-03-05 23:00:20,2018-03-05 23:02:28,"2m - 8,736s",FAILED
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 23:00:20,2018-03-05 23:00:20,"0,001s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 23:00:20,2018-03-05 23:00:20,"0,001s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-05 23:00:20,2018-03-05 23:00:20,"0,000s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-05 23:00:20,2018-03-05 23:00:20,"0,000s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-05 23:00:20,2018-03-05 23:00:20,"0,001s",PASSED
+cupakeysDl.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-05 23:00:20,2018-03-05 23:00:38,"18,718s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 23:00:38,2018-03-05 23:00:38,"0,001s",PASSED
+maximizeWindow,Chrome 64.0.3282.186,,2018-03-05 23:00:38,2018-03-05 23:00:40,"1,105s",PASSED
+cupakeysDl.color.changecolor,Chrome 64.0.3282.186,,2018-03-05 23:00:40,2018-03-05 23:00:46,"6,703s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 23:00:46,2018-03-05 23:00:46,"0,003s",PASSED
+"Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd(""londoncircle"", LoadTimeCorrector, step, run, device, timeStamp, iconcount)",Chrome 64.0.3282.186,,2018-03-05 23:00:46,2018-03-05 23:01:23,"36,550s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 23:01:23,2018-03-05 23:01:23,"0,001s",PASSED
+Statement - (iconcount++),Chrome 64.0.3282.186,,2018-03-05 23:01:23,2018-03-05 23:01:23,"0,000s",PASSED
+cupakeysDl.iconres.iconresize,Chrome 64.0.3282.186,,2018-03-05 23:01:23,2018-03-05 23:02:28,"1m - 5,426s",FAILED

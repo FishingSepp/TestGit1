@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CuPa,Chrome 64.0.3282.186,,2018-03-05 14:22:28,2018-03-05 14:22:51,"23,401s",ERROR
+,,,,,,
+Test Cases/CuPaStefanie/0,Chrome 64.0.3282.186,,2018-03-05 14:22:28,2018-03-05 14:22:28,"0,338s",ERROR
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 14:22:28,2018-03-05 14:22:28,"0,022s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 14:22:28,2018-03-05 14:22:28,"0,001s",PASSED
+Statement - ps = new java.io.PrintStream((((timeStamp + _Run) + run) + .txt)),Chrome 64.0.3282.186,,2018-03-05 14:22:28,2018-03-05 14:22:28,"0,002s",PASSED
+,,,,,,
+Test Cases/CuPaStefanie/2,Chrome 64.0.3282.186,,2018-03-05 14:22:29,2018-03-05 14:22:51,"22,070s",ERROR
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 14:22:29,2018-03-05 14:22:29,"0,002s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-05 14:22:29,2018-03-05 14:22:29,"0,001s",PASSED
+Statement - ps = new java.io.PrintStream((((timeStamp + _Run) + run) + .txt)),Chrome 64.0.3282.186,,2018-03-05 14:22:29,2018-03-05 14:22:29,"0,010s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-05 14:22:29,2018-03-05 14:22:29,"0,001s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-05 14:22:29,2018-03-05 14:22:29,"0,001s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-05 14:22:29,2018-03-05 14:22:29,"0,000s",PASSED
+cupaStefanie.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-05 14:22:29,2018-03-05 14:22:45,"16,326s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 14:22:45,2018-03-05 14:22:45,"0,001s",PASSED
+cupaStefanie.color.changecolor,Chrome 64.0.3282.186,,2018-03-05 14:22:45,2018-03-05 14:22:51,"5,377s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-05 14:22:51,2018-03-05 14:22:51,"0,000s",PASSED
+cupaStefaniel.chngstruct.changestructure,Chrome 64.0.3282.186,,2018-03-05 14:22:51,2018-03-05 14:22:51,"0,002s",ERROR

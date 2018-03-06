@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon</name>
+   <tag></tag>
+   <elementGuidId>91ef1dc4-6500-4041-a30c-627eeb3f01f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[1]/div[3]/div[2]/div[2]/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[1]/div[3]/div[2]/div[2]/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;pages-index&quot;]/div[1]/div[3]/div[2]/div[2]/div/div[3]/span</value>
+   </webElementProperties>
+</WebElementEntity>

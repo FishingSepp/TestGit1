@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Resize_Structure</name>
+   <tag></tag>
+   <elementGuidId>df590900-93b3-405a-9f43-133c4221c2f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[1]/div[2]/div[4]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;pages-index&quot;]/div[1]/div[2]/div[4]/div[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Split_PreviewPic</name>
+   <tag></tag>
+   <elementGuidId>60e50a5f-2c43-4f08-8452-580087a6face</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[10]/div[2]/div/div[2]/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[10]/div[2]/div/div[2]/div/div[2]/img</value>
+   </webElementProperties>
+</WebElementEntity>

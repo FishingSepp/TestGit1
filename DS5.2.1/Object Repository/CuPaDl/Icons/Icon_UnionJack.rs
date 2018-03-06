@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon_UnionJack</name>
+   <tag></tag>
+   <elementGuidId>7d5d058d-d066-4a67-a65e-4c6d2bbe8dd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[1]/div[3]/div[1]/div[2]/div/div[3]/div[1]/img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pages-index&quot;]/div[1]/div[3]/div[1]/div[2]/div/div[3]/div[1]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;pages-index&quot;]/div[1]/div[3]/div[1]/div[2]/div/div[3]/div[1]/img</value>
+   </webElementProperties>
+</WebElementEntity>

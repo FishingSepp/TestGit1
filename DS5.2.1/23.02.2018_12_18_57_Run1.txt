@@ -1,0 +1,26 @@
+Step_1_initialLoad_: 9.332
+Step_2_colorChange_jetblack: 0.1
+Step_3_structureChange_Hahnentritt: 2.354
+Step_4_structureresize_-100: 2.345
+Step_5_protrusionChange_minus1: 0.1
+Step_6_iconadd_compass: 1.325
+Step_7_iconreposition: 1.348
+Step_8_iconresize_-150: 1.331
+Step_9_protrusionChange_plus1: 1.346
+Step_10_iconadd_UnionJack: 2.377
+Step_11_iconreposition: 0.822
+Step_12_iconresize_-100: 1.338
+Step_13_protrusionChange_minus0,5: 1.357
+Step_14_textadd_imthenumber: 1.334
+Step_15_textfont_serif: 1.338
+Step_16_textreposition: 1.339
+Step_17_textresize_25: 1.329
+Step_18_textadd_1on1: 1.327
+Step_19_textfont_serif: 1.33
+Step_20_textreposition: 1.334
+Step_21_protrusionChange_minus1: 1.345
+Step_22_splitpreview_: 1.328
+Step_23_split_default: 2.411
+Step_23_textadd_partNo.2: 2.323
+Screenshots are fuzzy-equal.
+Step_27_restart: 1.425

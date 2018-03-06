@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CopyLink</name>
+   <tag></tag>
+   <elementGuidId>a87c24dd-b886-4f01-902c-cf9be4077513</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[10]/div[2]/div/div[2]/div/div[4]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[10]/div[2]/div/div[2]/div/div[4]/a/span</value>
+   </webElementProperties>
+</WebElementEntity>

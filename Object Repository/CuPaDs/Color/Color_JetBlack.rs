@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Color_JetBlack</name>
+   <tag></tag>
+   <elementGuidId>fce0c531-8b54-4ed8-aab5-308a2fe56d56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[3]/div[1]/div[2]/div/div[1]/div[1]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[3]/div[1]/div[2]/div/div[1]/div[1]/img</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,73 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CuPa,Chrome 64.0.3282.186,,2018-03-06 12:43:12,2018-03-06 12:46:22,"3m - 9,646s",PASSED
+,,,,,,
+Test Cases/CuPaStefanie/0,Chrome 64.0.3282.186,,2018-03-06 12:43:12,2018-03-06 12:43:13,"0,318s",PASSED
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:13,"0,019s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:13,"0,002s",PASSED
+Statement - ps = new java.io.PrintStream((((timeStamp + _Run) + run) + .txt)),Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:13,"0,007s",PASSED
+,,,,,,
+Test Cases/CuPaStefanie/1,Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:44:39,"1m - 26,366s",PASSED
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:13,"0,010s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:13,"0,001s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:13,"0,001s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:13,"0,001s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:13,"0,000s",PASSED
+cupakeysDl.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-06 12:43:13,2018-03-06 12:43:29,"16,082s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:43:29,2018-03-06 12:43:29,"0,001s",PASSED
+cupakeysDl.color.changecolor,Chrome 64.0.3282.186,,2018-03-06 12:43:29,2018-03-06 12:43:35,"5,824s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:43:35,2018-03-06 12:43:35,"0,001s",PASSED
+cupakeysDl.chngstruct.changestructure,Chrome 64.0.3282.186,,2018-03-06 12:43:35,2018-03-06 12:43:43,"7,886s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:43:43,2018-03-06 12:43:43,"0,000s",PASSED
+cupakeysDl.sclstruct.scalestructure,Chrome 64.0.3282.186,,2018-03-06 12:43:43,2018-03-06 12:44:11,"28,618s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:44:11,2018-03-06 12:44:11,"0,002s",PASSED
+"Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd(""unionjack"", LoadTimeCorrector, step, run, device, timeStamp, iconcount)",Chrome 64.0.3282.186,,2018-03-06 12:44:11,2018-03-06 12:44:16,"4,400s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:44:16,2018-03-06 12:44:16,"0,002s",PASSED
+Statement - (iconcount++),Chrome 64.0.3282.186,,2018-03-06 12:44:16,2018-03-06 12:44:16,"0,001s",PASSED
+cupakeysDl.iconres.iconresize,Chrome 64.0.3282.186,,2018-03-06 12:44:16,2018-03-06 12:44:34,"17,807s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:44:34,2018-03-06 12:44:34,"0,001s",PASSED
+cupakeysDl.slink.svlink,Chrome 64.0.3282.186,,2018-03-06 12:44:34,2018-03-06 12:44:36,"1,919s",PASSED
+cupakeysDl.endsession.finishsession,Chrome 64.0.3282.186,,2018-03-06 12:44:36,2018-03-06 12:44:39,"3,571s",PASSED
+,,,,,,
+Test Cases/CuPaStefanie/2,Chrome 64.0.3282.186,,2018-03-06 12:44:39,2018-03-06 12:45:35,"55,560s",PASSED
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-06 12:44:39,2018-03-06 12:44:39,"0,001s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-06 12:44:39,2018-03-06 12:44:39,"0,000s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:44:39,2018-03-06 12:44:39,"0,000s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:44:39,2018-03-06 12:44:39,"0,000s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:44:39,2018-03-06 12:44:39,"0,000s",PASSED
+cupakeysDl.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-06 12:44:39,2018-03-06 12:44:55,"15,142s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:44:55,2018-03-06 12:44:55,"0,001s",PASSED
+cupakeysDl.color.changecolor,Chrome 64.0.3282.186,,2018-03-06 12:44:55,2018-03-06 12:45:01,"6,825s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:45:01,2018-03-06 12:45:01,"0,000s",PASSED
+cupakeysDl.chngstruct.changestructure,Chrome 64.0.3282.186,,2018-03-06 12:45:01,2018-03-06 12:45:10,"8,609s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:45:10,2018-03-06 12:45:10,"0,000s",PASSED
+cupakeysDl.sclstruct.scalestructure,Chrome 64.0.3282.186,,2018-03-06 12:45:10,2018-03-06 12:45:20,"10,442s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:45:20,2018-03-06 12:45:20,"0,001s",PASSED
+"Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd(""unionjack"", LoadTimeCorrector, step, run, device, timeStamp, iconcount)",Chrome 64.0.3282.186,,2018-03-06 12:45:20,2018-03-06 12:45:25,"4,536s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:45:25,2018-03-06 12:45:25,"0,000s",PASSED
+Statement - (iconcount++),Chrome 64.0.3282.186,,2018-03-06 12:45:25,2018-03-06 12:45:25,"0,001s",PASSED
+cupakeysDl.iconres.iconresize,Chrome 64.0.3282.186,,2018-03-06 12:45:25,2018-03-06 12:45:30,"4,572s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:45:30,2018-03-06 12:45:30,"0,000s",PASSED
+cupakeysDl.slink.svlink,Chrome 64.0.3282.186,,2018-03-06 12:45:30,2018-03-06 12:45:31,"1,633s",PASSED
+cupakeysDl.endsession.finishsession,Chrome 64.0.3282.186,,2018-03-06 12:45:31,2018-03-06 12:45:35,"3,588s",PASSED
+,,,,,,
+Test Cases/CuPaStefanie/3,Chrome 64.0.3282.186,,2018-03-06 12:45:35,2018-03-06 12:46:22,"47,119s",PASSED
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy_HH_mm_ss).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-06 12:45:35,2018-03-06 12:45:35,"0,001s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),Chrome 64.0.3282.186,,2018-03-06 12:45:35,2018-03-06 12:45:35,"0,000s",PASSED
+Statement - iconmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:45:35,2018-03-06 12:45:35,"0,000s",PASSED
+Statement - txtmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:45:35,2018-03-06 12:45:35,"0,000s",PASSED
+Statement - signmap = [:],Chrome 64.0.3282.186,,2018-03-06 12:45:35,2018-03-06 12:45:35,"0,001s",PASSED
+cupakeysDl.initStart.initialStart,Chrome 64.0.3282.186,,2018-03-06 12:45:35,2018-03-06 12:45:50,"15,445s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:45:50,2018-03-06 12:45:50,"0,000s",PASSED
+cupakeysDl.color.changecolor,Chrome 64.0.3282.186,,2018-03-06 12:45:50,2018-03-06 12:45:56,"5,740s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:45:56,2018-03-06 12:45:56,"0,000s",PASSED
+cupakeysDl.chngstruct.changestructure,Chrome 64.0.3282.186,,2018-03-06 12:45:56,2018-03-06 12:46:00,"4,081s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:46:00,2018-03-06 12:46:00,"0,000s",PASSED
+cupakeysDl.sclstruct.scalestructure,Chrome 64.0.3282.186,,2018-03-06 12:46:00,2018-03-06 12:46:08,"7,737s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:46:08,2018-03-06 12:46:08,"0,000s",PASSED
+"Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd(""racing"", LoadTimeCorrector, step, run, device, timeStamp, iconcount)",Chrome 64.0.3282.186,,2018-03-06 12:46:08,2018-03-06 12:46:12,"4,114s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:46:12,2018-03-06 12:46:12,"0,000s",PASSED
+Statement - (iconcount++),Chrome 64.0.3282.186,,2018-03-06 12:46:12,2018-03-06 12:46:12,"0,000s",PASSED
+cupakeysDl.iconres.iconresize,Chrome 64.0.3282.186,,2018-03-06 12:46:12,2018-03-06 12:46:17,"4,637s",PASSED
+Statement - (step++),Chrome 64.0.3282.186,,2018-03-06 12:46:17,2018-03-06 12:46:17,"0,000s",PASSED
+cupakeysDl.slink.svlink,Chrome 64.0.3282.186,,2018-03-06 12:46:17,2018-03-06 12:46:18,"1,636s",PASSED
+cupakeysDl.endsession.finishsession,Chrome 64.0.3282.186,,2018-03-06 12:46:18,2018-03-06 12:46:22,"3,573s",PASSED

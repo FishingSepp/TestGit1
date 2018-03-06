@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="CuPa" time="0" tests="0" failures="0" errors="1">
+   <testsuite name="CuPa" tests="0" failures="0" errors="1" time="0" timestamp="2018-03-05 14:30:49" hostname="Megapoort - DESKTOP-47R6KV7.localdomain" id="Test Suites/CuPa">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Project\\DS5.2.1\\Reports\\CuPa\\20180305_143048"/>
+         <property name="logFiles" value="D:\\Project\\DS5.2.1\\Reports\\CuPa\\20180305_143048\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Megapoort - DESKTOP-47R6KV7.localdomain"/>
+         <property name="hostAddress" value="192.168.100.78"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+      </properties>
+      <testcase name="Test Cases/CuPaStefanie/0" classname="Test Cases/CuPaStefanie/0" status="ERROR">
+         <error type="ERROR" message="Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case."/>
+         <system-out><![CDATA[2018-03-05 14:30:49 - [TEST_CASE][ERROR] - Test Cases/CuPaStefanie/0: Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case.
+
+2018-03-05 14:30:50 - [TEST_STEP][PASSED] - Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-05 14:30:50 - [TEST_STEP][PASSED] - Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-05 14:30:50 - [TEST_STEP][PASSED] - Statement - ps = new java.io.PrintStream((((timeStamp + _Run) + run) + .txt)): null]]></system-out>
+         <system-err><![CDATA[2018-03-05 14:30:49 - [TEST_CASE][ERROR] - Test Cases/CuPaStefanie/0: Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case.]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-05 14:30:49 - [TEST_SUITE][ERROR] - CuPa: Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case.]]></system-out>
+      <system-err><![CDATA[2018-03-05 14:30:49 - [TEST_SUITE][ERROR] - CuPa: Test Cases/CuPaStefanie/0 FAILED because (of) Variable 'run' is not defined for test case.]]></system-err>
+   </testsuite>
+</testsuites>

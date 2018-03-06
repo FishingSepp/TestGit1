@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CuPa,,,2018-03-05 14:30:49,2018-03-05 14:30:50,"0,469s",ERROR
+,,,,,,
+Test Cases/CuPaStefanie/0,,,2018-03-05 14:30:49,2018-03-05 14:30:50,"0,223s",ERROR
+Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),,,2018-03-05 14:30:50,2018-03-05 14:30:50,"0,014s",PASSED
+Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()),,,2018-03-05 14:30:50,2018-03-05 14:30:50,"0,001s",PASSED
+Statement - ps = new java.io.PrintStream((((timeStamp + _Run) + run) + .txt)),,,2018-03-05 14:30:50,2018-03-05 14:30:50,"0,003s",PASSED

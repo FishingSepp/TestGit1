@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>screenshotCuPa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14376b43-1206-459c-9db0-2147b9fc0e3c</testCaseGuid>
+   <variable>
+      <defaultValue>'iPhoneX'</defaultValue>
+      <description></description>
+      <id>e68656b9-feff-4889-ae6a-65ebeb338378</id>
+      <masked>false</masked>
+      <name>resolution</name>
+   </variable>
+</TestCaseEntity>

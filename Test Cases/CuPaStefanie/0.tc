@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d54c2a9f-9105-4d05-9b0d-c7a0bbb26ebf</testCaseGuid>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>4ef5b2cf-a1cf-4bb7-807a-f3401ab62df2</id>
+      <masked>false</masked>
+      <name>totalRuns</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>bae637da-57b0-4376-95de-98a877ce9c22</id>
+      <masked>false</masked>
+      <name>run</name>
+   </variable>
+</TestCaseEntity>

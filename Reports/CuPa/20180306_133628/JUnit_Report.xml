@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="CuPa" time="201" tests="4" failures="0" errors="0">
+   <testsuite name="CuPa" tests="4" failures="0" errors="0" time="201" timestamp="2018-03-06 13:36:29" hostname="DESKTOP-47R6KV7$ - DESKTOP-47R6KV7.localdomain" id="Test Suites/CuPa">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Project\\DS5.2.1\\Reports\\CuPa\\20180306_133628"/>
+         <property name="logFiles" value="D:\\Project\\DS5.2.1\\Reports\\CuPa\\20180306_133628\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="DESKTOP-47R6KV7$ - DESKTOP-47R6KV7.localdomain"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Chrome 64.0.3282.186"/>
+         <property name="hostAddress" value="192.168.100.78"/>
+         <property name="sessionId" value="b80fee26a4aaf3ee07b54e7dfe4fffaa"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CuPaStefanie/0" classname="Test Cases/CuPaStefanie/0" status="PASSED">
+         <system-out><![CDATA[2018-03-06 13:36:30 - [TEST_CASE][PASSED] - Test Cases/CuPaStefanie/0: Test Cases/CuPaStefanie/0
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - Statement - ps = new java.io.PrintStream((((timeStamp + _Run) + run) + .txt)): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CuPaStefanie/1" classname="Test Cases/CuPaStefanie/1" status="PASSED">
+         <system-out><![CDATA[2018-03-06 13:36:30 - [TEST_CASE][PASSED] - Test Cases/CuPaStefanie/1: Test Cases/CuPaStefanie/1
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - Statement - iconmap = [:]: null
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - Statement - txtmap = [:]: null
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - Statement - signmap = [:]: null
+
+2018-03-06 13:36:30 - [TEST_STEP][PASSED] - cupakeysDl.initStart.initialStart: cupakeysDl.initStart.initialStart is PASSED
+
+2018-03-06 13:36:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-06 13:36:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-06 13:36:42 - [MESSAGE][PASSED] - Navigate to 'https://d16a4dsnr8a0k1.cloudfront.net/en/2455233.html?price=150.00%20%E2%82%AC&partName=wilsonPartName&vin=wilsonVin&modelCode=XP11&paint=P0A94&modelDescription=wilsonModelDescription&additionalEquipment=wilsonAdditionalEquipment' successfully
+
+2018-03-06 13:36:42 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:36:50 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:36:51 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:36:51 - [MESSAGE][PASSED] - cupakeysDl.initStart.initialStart is PASSED
+
+2018-03-06 13:36:51 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:36:51 - [TEST_STEP][PASSED] - cupakeysDl.color.changecolor: cupakeysDl.color.changecolor is PASSED
+
+2018-03-06 13:36:51 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color' is visible
+
+2018-03-06 13:36:51 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color' is clicked on
+
+2018-03-06 13:36:52 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:36:52 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color_passionred' is visible
+
+2018-03-06 13:36:52 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color_passionred' is clicked on
+
+2018-03-06 13:36:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:36:52 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color_passionred' is visible
+
+2018-03-06 13:36:53 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:36:53 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color_passionred' is clicked on
+
+2018-03-06 13:36:57 - [MESSAGE][WARNING] - Object 'Object Repository/CuPaDl/Loading_indicator' is not visible after 3 second(s)
+
+2018-03-06 13:36:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:36:58 - [MESSAGE][PASSED] - cupakeysDl.color.changecolor is PASSED
+
+2018-03-06 13:36:58 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:36:58 - [TEST_STEP][PASSED] - cupakeysDl.chngstruct.changestructure: cupakeysDl.chngstruct.changestructure is PASSED
+
+2018-03-06 13:36:58 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Structure' is clicked on
+
+2018-03-06 13:36:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:36:58 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Structure_Hahnentritt' is visible
+
+2018-03-06 13:36:58 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Structure_drops' is visible
+
+2018-03-06 13:36:58 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Structure_drops' is clicked on
+
+2018-03-06 13:36:58 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:37:05 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:37:06 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:37:06 - [MESSAGE][PASSED] - cupakeysDl.chngstruct.changestructure is PASSED
+
+2018-03-06 13:37:06 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:37:06 - [TEST_STEP][PASSED] - cupakeysDl.sclstruct.scalestructure: cupakeysDl.sclstruct.scalestructure is PASSED
+
+2018-03-06 13:37:09 - [MESSAGE][WARNING] - Object 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' is not visible after 3 second(s)
+
+2018-03-06 13:37:09 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Resize_Structure' is clicked on
+
+2018-03-06 13:37:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:37:09 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' is visible
+
+2018-03-06 13:37:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:37:10 - [MESSAGE][PASSED] - Current viewport's left (x) position is 0
+
+2018-03-06 13:37:10 - [MESSAGE][PASSED] - Current viewport's top (y) position is 54
+
+2018-03-06 13:37:10 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' by offset distance x = -225 and y = -171 successfully
+
+2018-03-06 13:37:11 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:37:33 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:37:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:37:34 - [MESSAGE][PASSED] - cupakeysDl.sclstruct.scalestructure is PASSED
+
+2018-03-06 13:37:34 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:37:34 - [TEST_STEP][PASSED] - Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd("unionjack", LoadTimeCorrector, step, run, device, timeStamp, iconcount): cupakeysDl.iconad.iconadd is PASSED
+
+2018-03-06 13:37:34 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Icons/Icon' is clicked on
+
+2018-03-06 13:37:34 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Icons/Icon_unionjack' is visible
+
+2018-03-06 13:37:34 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Icons/Icon_unionjack' is clicked on
+
+2018-03-06 13:37:35 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:37:35 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:37:37 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:37:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:37:37 - [MESSAGE][PASSED] - Width of element 'Object Repository/CuPaDl/Icons/Reposition_icon' is '40'
+
+2018-03-06 13:37:37 - [MESSAGE][PASSED] - Height of element 'Object Repository/CuPaDl/Icons/Reposition_icon' is '40'.
+
+2018-03-06 13:37:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:37:38 - [MESSAGE][PASSED] - cupakeysDl.iconad.iconadd is PASSED
+
+2018-03-06 13:37:38 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:37:38 - [TEST_STEP][PASSED] - Statement - (iconcount++): null
+
+2018-03-06 13:37:38 - [TEST_STEP][PASSED] - cupakeysDl.iconres.iconresize: cupakeysDl.iconres.iconresize is PASSED
+
+2018-03-06 13:37:38 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Icons/Reposition_icon' is visible
+
+2018-03-06 13:37:38 - [MESSAGE][PASSED] - Current viewport's left (x) position is 0
+
+2018-03-06 13:37:38 - [MESSAGE][PASSED] - Current viewport's top (y) position is 54
+
+2018-03-06 13:37:38 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/CuPaDl/Icons/Resize_icon_bottomright' by offset distance x = -125 and y = -71 successfully
+
+2018-03-06 13:37:40 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:37:55 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:37:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:37:56 - [MESSAGE][PASSED] - cupakeysDl.iconres.iconresize is PASSED
+
+2018-03-06 13:37:56 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:37:56 - [TEST_STEP][PASSED] - cupakeysDl.slink.svlink: cupakeysDl.slink.svlink is PASSED
+
+2018-03-06 13:37:56 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/CuPaDl/Save/Save' successfully
+
+2018-03-06 13:37:56 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Save/Save' is clicked on
+
+2018-03-06 13:37:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:37:57 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Save/CopyLink' is visible
+
+2018-03-06 13:37:57 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/CuPaDl/Save/Link' is: 'https://d16a4dsnr8a0k1.cloudfront.net/en/2455233.html?scupaId=AyYmV3E7Il0gNHo0RURF'
+
+2018-03-06 13:37:57 - [MESSAGE][PASSED] - cupakeysDl.slink.svlink is PASSED
+
+2018-03-06 13:37:57 - [TEST_STEP][PASSED] - cupakeysDl.endsession.finishsession: cupakeysDl.endsession.finishsession is PASSED
+
+2018-03-06 13:38:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-06 13:38:01 - [MESSAGE][PASSED] - Browser is closed
+
+2018-03-06 13:38:01 - [MESSAGE][PASSED] - cupakeysDl.endsession.finishsession is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CuPaStefanie/2" classname="Test Cases/CuPaStefanie/2" status="PASSED">
+         <system-out><![CDATA[2018-03-06 13:38:01 - [TEST_CASE][PASSED] - Test Cases/CuPaStefanie/2: Test Cases/CuPaStefanie/2
+
+2018-03-06 13:38:01 - [TEST_STEP][PASSED] - Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-06 13:38:01 - [TEST_STEP][PASSED] - Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-06 13:38:01 - [TEST_STEP][PASSED] - Statement - iconmap = [:]: null
+
+2018-03-06 13:38:01 - [TEST_STEP][PASSED] - Statement - txtmap = [:]: null
+
+2018-03-06 13:38:01 - [TEST_STEP][PASSED] - Statement - signmap = [:]: null
+
+2018-03-06 13:38:01 - [TEST_STEP][PASSED] - cupakeysDl.initStart.initialStart: cupakeysDl.initStart.initialStart is PASSED
+
+2018-03-06 13:38:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-06 13:38:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-06 13:38:07 - [MESSAGE][PASSED] - Navigate to 'https://d16a4dsnr8a0k1.cloudfront.net/en/2455233.html?price=150.00%20%E2%82%AC&partName=wilsonPartName&vin=wilsonVin&modelCode=XP11&paint=P0A94&modelDescription=wilsonModelDescription&additionalEquipment=wilsonAdditionalEquipment' successfully
+
+2018-03-06 13:38:08 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:38:15 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:38:16 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:16 - [MESSAGE][PASSED] - cupakeysDl.initStart.initialStart is PASSED
+
+2018-03-06 13:38:16 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:38:16 - [TEST_STEP][PASSED] - cupakeysDl.color.changecolor: cupakeysDl.color.changecolor is PASSED
+
+2018-03-06 13:38:16 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color' is visible
+
+2018-03-06 13:38:16 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color' is clicked on
+
+2018-03-06 13:38:17 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:17 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color_passionred' is visible
+
+2018-03-06 13:38:17 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color_passionred' is clicked on
+
+2018-03-06 13:38:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:38:17 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color_passionred' is visible
+
+2018-03-06 13:38:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:18 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color_passionred' is clicked on
+
+2018-03-06 13:38:22 - [MESSAGE][WARNING] - Object 'Object Repository/CuPaDl/Loading_indicator' is not visible after 3 second(s)
+
+2018-03-06 13:38:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:23 - [MESSAGE][PASSED] - cupakeysDl.color.changecolor is PASSED
+
+2018-03-06 13:38:23 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:38:23 - [TEST_STEP][PASSED] - cupakeysDl.chngstruct.changestructure: cupakeysDl.chngstruct.changestructure is PASSED
+
+2018-03-06 13:38:23 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Structure' is clicked on
+
+2018-03-06 13:38:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:38:23 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Structure_Hahnentritt' is visible
+
+2018-03-06 13:38:23 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Structure_drops' is visible
+
+2018-03-06 13:38:23 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Structure_drops' is clicked on
+
+2018-03-06 13:38:24 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:38:29 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:38:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:30 - [MESSAGE][PASSED] - cupakeysDl.chngstruct.changestructure is PASSED
+
+2018-03-06 13:38:30 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:38:30 - [TEST_STEP][PASSED] - cupakeysDl.sclstruct.scalestructure: cupakeysDl.sclstruct.scalestructure is PASSED
+
+2018-03-06 13:38:33 - [MESSAGE][WARNING] - Object 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' is not visible after 3 second(s)
+
+2018-03-06 13:38:33 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Resize_Structure' is clicked on
+
+2018-03-06 13:38:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:38:33 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' is visible
+
+2018-03-06 13:38:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:35 - [MESSAGE][PASSED] - Current viewport's left (x) position is 0
+
+2018-03-06 13:38:35 - [MESSAGE][PASSED] - Current viewport's top (y) position is 54
+
+2018-03-06 13:38:35 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' by offset distance x = 225 and y = 279 successfully
+
+2018-03-06 13:38:36 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:38:40 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:38:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:41 - [MESSAGE][PASSED] - cupakeysDl.sclstruct.scalestructure is PASSED
+
+2018-03-06 13:38:41 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:38:41 - [TEST_STEP][PASSED] - Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd("unionjack", LoadTimeCorrector, step, run, device, timeStamp, iconcount): cupakeysDl.iconad.iconadd is PASSED
+
+2018-03-06 13:38:41 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Icons/Icon' is clicked on
+
+2018-03-06 13:38:41 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Icons/Icon_unionjack' is visible
+
+2018-03-06 13:38:41 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Icons/Icon_unionjack' is clicked on
+
+2018-03-06 13:38:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:42 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:38:45 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:38:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:38:45 - [MESSAGE][PASSED] - Width of element 'Object Repository/CuPaDl/Icons/Reposition_icon' is '40'
+
+2018-03-06 13:38:45 - [MESSAGE][PASSED] - Height of element 'Object Repository/CuPaDl/Icons/Reposition_icon' is '40'.
+
+2018-03-06 13:38:46 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:46 - [MESSAGE][PASSED] - cupakeysDl.iconad.iconadd is PASSED
+
+2018-03-06 13:38:46 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:38:46 - [TEST_STEP][PASSED] - Statement - (iconcount++): null
+
+2018-03-06 13:38:46 - [TEST_STEP][PASSED] - cupakeysDl.iconres.iconresize: cupakeysDl.iconres.iconresize is PASSED
+
+2018-03-06 13:38:46 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Icons/Reposition_icon' is visible
+
+2018-03-06 13:38:46 - [MESSAGE][PASSED] - Current viewport's left (x) position is 0
+
+2018-03-06 13:38:46 - [MESSAGE][PASSED] - Current viewport's top (y) position is 54
+
+2018-03-06 13:38:46 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/CuPaDl/Icons/Resize_icon_bottomright' by offset distance x = 125 and y = 179 successfully
+
+2018-03-06 13:38:48 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:38:49 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:38:50 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:38:50 - [MESSAGE][PASSED] - cupakeysDl.iconres.iconresize is PASSED
+
+2018-03-06 13:38:50 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:38:50 - [TEST_STEP][PASSED] - cupakeysDl.slink.svlink: cupakeysDl.slink.svlink is PASSED
+
+2018-03-06 13:38:50 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/CuPaDl/Save/Save' successfully
+
+2018-03-06 13:38:50 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Save/Save' is clicked on
+
+2018-03-06 13:38:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:38:51 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Save/CopyLink' is visible
+
+2018-03-06 13:38:51 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/CuPaDl/Save/Link' is: 'https://d16a4dsnr8a0k1.cloudfront.net/en/2455233.html?scupaId=ATA9I2opXVQmUXo0RURF'
+
+2018-03-06 13:38:51 - [MESSAGE][PASSED] - cupakeysDl.slink.svlink is PASSED
+
+2018-03-06 13:38:51 - [TEST_STEP][PASSED] - cupakeysDl.endsession.finishsession: cupakeysDl.endsession.finishsession is PASSED
+
+2018-03-06 13:38:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-06 13:38:55 - [MESSAGE][PASSED] - Browser is closed
+
+2018-03-06 13:38:55 - [MESSAGE][PASSED] - cupakeysDl.endsession.finishsession is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CuPaStefanie/3" classname="Test Cases/CuPaStefanie/3" status="PASSED">
+         <system-out><![CDATA[2018-03-06 13:38:55 - [TEST_CASE][PASSED] - Test Cases/CuPaStefanie/3: Test Cases/CuPaStefanie/3
+
+2018-03-06 13:38:55 - [TEST_STEP][PASSED] - Statement - timeStamp = new java.text.SimpleDateFormat(dd.MM.yyyy_HH_mm_ss).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-06 13:38:55 - [TEST_STEP][PASSED] - Statement - timeStampScreenshot = new java.text.SimpleDateFormat(dd.MM.yyyy).format(java.util.Calendar.getInstance().getTime()): null
+
+2018-03-06 13:38:55 - [TEST_STEP][PASSED] - Statement - iconmap = [:]: null
+
+2018-03-06 13:38:55 - [TEST_STEP][PASSED] - Statement - txtmap = [:]: null
+
+2018-03-06 13:38:55 - [TEST_STEP][PASSED] - Statement - signmap = [:]: null
+
+2018-03-06 13:38:55 - [TEST_STEP][PASSED] - cupakeysDl.initStart.initialStart: cupakeysDl.initStart.initialStart is PASSED
+
+2018-03-06 13:38:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-06 13:39:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-06 13:39:05 - [MESSAGE][PASSED] - Navigate to 'https://d16a4dsnr8a0k1.cloudfront.net/en/2455233.html?price=150.00%20%E2%82%AC&partName=wilsonPartName&vin=wilsonVin&modelCode=XP11&paint=P0A94&modelDescription=wilsonModelDescription&additionalEquipment=wilsonAdditionalEquipment' successfully
+
+2018-03-06 13:39:05 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:39:16 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:39:17 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:17 - [MESSAGE][PASSED] - cupakeysDl.initStart.initialStart is PASSED
+
+2018-03-06 13:39:17 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:39:17 - [TEST_STEP][PASSED] - cupakeysDl.color.changecolor: cupakeysDl.color.changecolor is PASSED
+
+2018-03-06 13:39:17 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color' is visible
+
+2018-03-06 13:39:17 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color' is clicked on
+
+2018-03-06 13:39:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:18 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color_nightlightblue' is visible
+
+2018-03-06 13:39:18 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color_nightlightblue' is clicked on
+
+2018-03-06 13:39:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:39:18 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Color/Color_nightlightblue' is visible
+
+2018-03-06 13:39:19 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:20 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Color/Color_nightlightblue' is clicked on
+
+2018-03-06 13:39:20 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:39:23 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:39:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:24 - [MESSAGE][PASSED] - cupakeysDl.color.changecolor is PASSED
+
+2018-03-06 13:39:24 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:39:24 - [TEST_STEP][PASSED] - cupakeysDl.chngstruct.changestructure: cupakeysDl.chngstruct.changestructure is PASSED
+
+2018-03-06 13:39:24 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Structure' is clicked on
+
+2018-03-06 13:39:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:39:24 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Structure_Hahnentritt' is visible
+
+2018-03-06 13:39:24 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Structure_chess' is visible
+
+2018-03-06 13:39:24 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Structure_chess' is clicked on
+
+2018-03-06 13:39:25 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:39:28 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:39:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:29 - [MESSAGE][PASSED] - cupakeysDl.chngstruct.changestructure is PASSED
+
+2018-03-06 13:39:29 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:39:29 - [TEST_STEP][PASSED] - cupakeysDl.sclstruct.scalestructure: cupakeysDl.sclstruct.scalestructure is PASSED
+
+2018-03-06 13:39:32 - [MESSAGE][WARNING] - Object 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' is not visible after 3 second(s)
+
+2018-03-06 13:39:32 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Structure/Resize_Structure' is clicked on
+
+2018-03-06 13:39:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:39:32 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' is visible
+
+2018-03-06 13:39:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:33 - [MESSAGE][PASSED] - Current viewport's left (x) position is 0
+
+2018-03-06 13:39:33 - [MESSAGE][PASSED] - Current viewport's top (y) position is 54
+
+2018-03-06 13:39:33 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/CuPaDl/Structure/Resize_Structure_bottomright' by offset distance x = -225 and y = -171 successfully
+
+2018-03-06 13:39:35 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:39:36 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:39:37 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:37 - [MESSAGE][PASSED] - cupakeysDl.sclstruct.scalestructure is PASSED
+
+2018-03-06 13:39:37 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:39:37 - [TEST_STEP][PASSED] - Statement - iconmap += CustomKeywords.cupakeysDl.iconad.iconadd("racing", LoadTimeCorrector, step, run, device, timeStamp, iconcount): cupakeysDl.iconad.iconadd is PASSED
+
+2018-03-06 13:39:37 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Icons/Icon' is clicked on
+
+2018-03-06 13:39:37 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Icons/Icon_racing' is visible
+
+2018-03-06 13:39:37 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Icons/Icon_racing' is clicked on
+
+2018-03-06 13:39:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:39 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:39:40 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:39:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:39:40 - [MESSAGE][PASSED] - Width of element 'Object Repository/CuPaDl/Icons/Reposition_icon' is '40'
+
+2018-03-06 13:39:40 - [MESSAGE][PASSED] - Height of element 'Object Repository/CuPaDl/Icons/Reposition_icon' is '40'.
+
+2018-03-06 13:39:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:41 - [MESSAGE][PASSED] - cupakeysDl.iconad.iconadd is PASSED
+
+2018-03-06 13:39:41 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:39:41 - [TEST_STEP][PASSED] - Statement - (iconcount++): null
+
+2018-03-06 13:39:41 - [TEST_STEP][PASSED] - cupakeysDl.iconres.iconresize: cupakeysDl.iconres.iconresize is PASSED
+
+2018-03-06 13:39:41 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Icons/Reposition_icon' is visible
+
+2018-03-06 13:39:41 - [MESSAGE][PASSED] - Current viewport's left (x) position is 0
+
+2018-03-06 13:39:41 - [MESSAGE][PASSED] - Current viewport's top (y) position is 54
+
+2018-03-06 13:39:41 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/CuPaDl/Icons/Resize_icon_bottomright' by offset distance x = -125 and y = -71 successfully
+
+2018-03-06 13:39:43 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is visible
+
+2018-03-06 13:39:44 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Loading_indicator' is NOT visible
+
+2018-03-06 13:39:45 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-03-06 13:39:45 - [MESSAGE][PASSED] - cupakeysDl.iconres.iconresize is PASSED
+
+2018-03-06 13:39:45 - [TEST_STEP][PASSED] - Statement - (step++): null
+
+2018-03-06 13:39:45 - [TEST_STEP][PASSED] - cupakeysDl.slink.svlink: cupakeysDl.slink.svlink is PASSED
+
+2018-03-06 13:39:45 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/CuPaDl/Save/Save' successfully
+
+2018-03-06 13:39:45 - [MESSAGE][PASSED] - Object: 'Object Repository/CuPaDl/Save/Save' is clicked on
+
+2018-03-06 13:39:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-03-06 13:39:48 - [MESSAGE][PASSED] - Object 'Object Repository/CuPaDl/Save/CopyLink' is visible
+
+2018-03-06 13:39:48 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/CuPaDl/Save/Link' is: 'https://d16a4dsnr8a0k1.cloudfront.net/en/2455233.html?scupaId=GyckN2wlLj9WMno0RURG'
+
+2018-03-06 13:39:48 - [MESSAGE][PASSED] - cupakeysDl.slink.svlink is PASSED
+
+2018-03-06 13:39:48 - [TEST_STEP][PASSED] - cupakeysDl.endsession.finishsession: cupakeysDl.endsession.finishsession is PASSED
+
+2018-03-06 13:39:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-03-06 13:39:51 - [MESSAGE][PASSED] - Browser is closed
+
+2018-03-06 13:39:51 - [MESSAGE][PASSED] - cupakeysDl.endsession.finishsession is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-06 13:36:29 - [TEST_SUITE][PASSED] - CuPa: Test Cases/CuPaStefanie/3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

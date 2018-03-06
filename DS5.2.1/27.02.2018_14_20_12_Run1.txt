@@ -1,0 +1,6 @@
+Step_1_initialLoad_: 27.451
+Step_2_colorChange_chilired: 0.1
+Step_3_structureChange_drops: 2.398
+Step_4_structureresize_-100: 2.717
+Step_5_protrusionChange_plus1: 2.519
+Step_6_textadd_MINI CUPA: -0.082

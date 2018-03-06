@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>screenshotCON</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cf262c8-1d5a-4c3d-8999-ce72264216f6</testCaseGuid>
+   <variable>
+      <defaultValue>'iPhone8+'</defaultValue>
+      <description></description>
+      <id>d58c2ea5-13cd-4319-b125-a6f6aa694211</id>
+      <masked>false</masked>
+      <name>resolution</name>
+   </variable>
+</TestCaseEntity>
